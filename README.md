@@ -13,10 +13,10 @@ MedBot is an AI-powered healthcare chatbot designed to provide preliminary medic
 ## Preview
 Here are some screenshots of MedBot in action:
 
--preview image 1
+preview image 1
 ![MedBot Preview1](https://github.com/Arun-Tomar13/Medbot_Intern/blob/main/img%201.png?raw=true)
 
--preview image 1
+preview image 1
 ![MedBot Preview2](https://github.com/Arun-Tomar13/Medbot_Intern/blob/main/img%202.png?raw=true)
 
 ## Tech Stack
