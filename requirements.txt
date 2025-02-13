@@ -3,3 +3,5 @@ transformers
 tensorflow
 nltk
 tf-keras
+torch
+streamlit-chat
