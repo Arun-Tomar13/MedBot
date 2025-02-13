@@ -12,8 +12,8 @@ MedBot is an AI-powered healthcare chatbot designed to provide preliminary medic
 
 ## Preview
 Here are some screenshots of MedBot in action:
-![MedBot Preview](https://github.com/Arun-Tomar13/Medbot_Intern/blob/main/img%201.png?raw=true))
-![MedBot Preview]((https://github.com/Arun-Tomar13/Medbot_Intern/blob/main/img%202.png?raw=true))
+![MedBot Preview1](https://github.com/Arun-Tomar13/Medbot_Intern/blob/main/img%201.png?raw=true))
+![MedBot Preview2](https://github.com/Arun-Tomar13/Medbot_Intern/blob/main/img%202.png?raw=true))
 
 ## Tech Stack
 - **Frontend**: Streamlit
