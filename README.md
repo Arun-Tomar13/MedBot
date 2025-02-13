@@ -1,4 +1,4 @@
-# MedBot - AI-Powered Healthcare Chatbot
+![image](https://github.com/user-attachments/assets/dd0a2d79-89bf-4097-9081-a106043ec628)# MedBot - AI-Powered Healthcare Chatbot
 
 ## Overview
 MedBot is an AI-powered healthcare chatbot designed to provide preliminary medical guidance and assistance. It uses natural language processing (NLP) techniques to analyze user input and generate appropriate responses. The chatbot integrates a pre-trained GPT-2 model and a rule-based healthcare keyword system to enhance user experience.
@@ -9,6 +9,11 @@ MedBot is an AI-powered healthcare chatbot designed to provide preliminary medic
 - Utilizes a GPT-2 model for generating conversational responses.
 - Streamlit-based web interface for easy accessibility.
 - Supports natural language processing (NLTK) for tokenization and stopword removal.
+
+## Preview
+Here are some screenshots of MedBot in action:
+
+
 
 ## Tech Stack
 - **Frontend**: Streamlit
@@ -63,7 +68,5 @@ MedBot is not a replacement for professional medical advice. Always consult a he
 
 ## License
 This project is open-source and available under the MIT License.
-![Screenshot 1](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-02-10%20195556.png)
-![Screenshot 2](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-02-10%20195748.png)
 
 
