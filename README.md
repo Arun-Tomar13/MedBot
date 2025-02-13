@@ -63,4 +63,7 @@ MedBot is not a replacement for professional medical advice. Always consult a he
 
 ## License
 This project is open-source and available under the MIT License.
+![Screenshot 1](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-02-10%20195556.png)
+![Screenshot 2](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-02-10%20195748.png)
+
 
